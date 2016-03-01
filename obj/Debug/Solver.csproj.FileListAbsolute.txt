@@ -1,0 +1,6 @@
+c:\users\ocelebi\documents\visual studio 2013\Projects\Solver\Solver\bin\Debug\Solver.exe.config
+c:\users\ocelebi\documents\visual studio 2013\Projects\Solver\Solver\bin\Debug\Solver.exe
+c:\users\ocelebi\documents\visual studio 2013\Projects\Solver\Solver\bin\Debug\Solver.pdb
+c:\users\ocelebi\documents\visual studio 2013\Projects\Solver\Solver\obj\Debug\Solver.csprojResolveAssemblyReference.cache
+c:\users\ocelebi\documents\visual studio 2013\Projects\Solver\Solver\obj\Debug\Solver.exe
+c:\users\ocelebi\documents\visual studio 2013\Projects\Solver\Solver\obj\Debug\Solver.pdb
